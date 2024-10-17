@@ -1,0 +1,27 @@
+# Ignore IntelliJ IDEA project files
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/.idea/shelf/
+.DS_Store
+
+# Ignore build directories
+/build/
+app/build/
+
+# Ignore Gradle wrapper JAR (optional)
+gradle/wrapper/gradle-wrapper.jar
+
+# Ignore system-specific files
+/captures
+.externalNativeBuild
+.cxx
+
+# Ignore APK files
+*.apk
